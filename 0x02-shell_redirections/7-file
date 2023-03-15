@@ -1,2 +1,7 @@
 #!/bin/bash
+
+# Create the file using touch
 touch '*\\"Best School"\\\'*$\\?******:)'
+
+# Write "Best School" followed by a new line to the file using echo
+echo "Best School" >> '*\\"Best School"\\\'*$\\?******:)'
